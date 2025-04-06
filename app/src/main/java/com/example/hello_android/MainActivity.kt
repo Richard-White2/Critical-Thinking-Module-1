@@ -50,8 +50,7 @@ fun HelloTextPreview() {
                 text = "Hello, Android!",
                 color = MaterialTheme.colorScheme.onPrimary,
                 style = MaterialTheme.typography.bodyMedium,
-                fontSize = 30.sp,
-                fontWeight = FontWeight.Black
+                fontSize = 35.sp,
             )
         }
     }
